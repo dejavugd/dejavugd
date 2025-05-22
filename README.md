@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я Dejavu 👋</h1>
 
 <p align="center">
-  <a href="https://t.me/+79516361120"><img src="https://img.shields.io/badge/Telegram-%2B79933804500-0088cc?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/+79516361120"><img src="https://img.shields.io/badge/Telegram-%2B79516361120-0088cc?style=flat&logo=telegram&logoColor=white"></a>
   <a href="https://dejavugd.ru/#about"><img src="https://img.shields.io/badge/About%20Project-dejavugd.ru%2Fabout-informational?style=flat&logo=github"></a>
 </p>
 
